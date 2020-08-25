@@ -1,0 +1,13 @@
+[Plymouth Theme]
+Name=Kiran
+Description=Simple theme that shows a rotating infinity sign in the center of the screen
+ModuleName=throbonly
+
+[throbonly]
+ImageDir=/usr/share/plymouth/themes/kiran
+BackgroundStartColor=0x000000
+BackgroundEndColor=0x000000
+ThrobberDuration=2.42
+FramesPerSecond=34
+ShowProgressBar=True
+ShutdownModeText=正在关机 ...
